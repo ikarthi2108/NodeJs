@@ -1,0 +1,7 @@
+A callback function means a function is passed as an arguement to the another function
+
+setTimeout(() =>{
+    console.log('Two Seconds are up)
+},2000)
+
+const name=

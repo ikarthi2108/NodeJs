@@ -1,0 +1,27 @@
+// const data=fs.writeFileSync('notes.txt',"hello karthikeyan")
+// console.log(data)
+
+//readFile
+
+
+// //writeFile
+// fs.writeFile(path.join(__dirname, 'New7.txt'), 'Add me', (err) => {
+//     if (err) throw err;
+//     console.log('write complete');
+// })
+
+// //Adding data to the file
+
+// fs.appendFile(path.join(__dirname, 'New7.txt'), ' in the group', (err) => {
+//     if (err) throw err;
+//     console.log("append successful")
+// })
+
+// // renamin the file
+
+// fs.rename(path.join(__dirname, 'New7.txt'), path.join(__dirname, 'New.txt'), (err) => {
+//     if (err) throw err;
+//     console.log("renamed")
+// })
+
+//exit on uncaught errors
