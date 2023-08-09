@@ -4,4 +4,14 @@ setTimeout(() =>{
     console.log('Two Seconds are up)
 },2000)
 
-const name=
+// app.get('', (req, res) => {
+//     res.send("<h1>Hello Express</h1>")
+// })
+
+// app.get('/help', (req, res) => {
+//     res.send([{ name: 'kk' }, { age: 21 }])
+// })
+
+// app.get('/about', (req, res) => {
+//     res.send('<h1>Ithu About page</h1>')
+// })
